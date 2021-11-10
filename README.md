@@ -18,6 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Deployment
+
+A live version of the app is deployed and can you visit it [here](https://quicksell-counter-app.herokuapp.com/)
+
 ## Preview
 
 <br />
