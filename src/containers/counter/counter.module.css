@@ -1,0 +1,36 @@
+.body {
+  margin-top: 10rem;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.titleText {
+  font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+  line-height: 1.15;
+  font-size: 2.5rem;
+  font-weight: 400px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+.author {
+  position: absolute;
+  bottom: 1rem;
+  right: auto;
+}
+
+.authorText {
+  font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+  line-height: 1.15;
+  font-size: 1.2rem;
+  font-weight: 400px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
